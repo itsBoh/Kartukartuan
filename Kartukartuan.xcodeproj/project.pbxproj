@@ -15,6 +15,7 @@
 		04441C612AFDB7E100424B8A /* KartukartuanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04441C602AFDB7E100424B8A /* KartukartuanUITests.swift */; };
 		04441C632AFDB7E100424B8A /* KartukartuanUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04441C622AFDB7E100424B8A /* KartukartuanUITestsLaunchTests.swift */; };
 		04441C702AFDBBD500424B8A /* WOT-Scryfall.json in Resources */ = {isa = PBXBuildFile; fileRef = 04441C6F2AFDBBD400424B8A /* WOT-Scryfall.json */; };
+		04673F9F2B06605A00F726C8 /* SortOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04673F9E2B06605A00F726C8 /* SortOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		04441C602AFDB7E100424B8A /* KartukartuanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KartukartuanUITests.swift; sourceTree = "<group>"; };
 		04441C622AFDB7E100424B8A /* KartukartuanUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KartukartuanUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		04441C6F2AFDBBD400424B8A /* WOT-Scryfall.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "WOT-Scryfall.json"; sourceTree = "<group>"; };
+		04673F9E2B06605A00F726C8 /* SortOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				04441C6F2AFDBBD400424B8A /* WOT-Scryfall.json */,
 				04441C452AFDB7DE00424B8A /* KartukartuanApp.swift */,
 				04441C472AFDB7DE00424B8A /* ContentView.swift */,
+				04673F9E2B06605A00F726C8 /* SortOption.swift */,
 				04441C492AFDB7E100424B8A /* Assets.xcassets */,
 				04441C4B2AFDB7E100424B8A /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04673F9F2B06605A00F726C8 /* SortOption.swift in Sources */,
 				04441C482AFDB7DE00424B8A /* ContentView.swift in Sources */,
 				04441C462AFDB7DE00424B8A /* KartukartuanApp.swift in Sources */,
 			);
